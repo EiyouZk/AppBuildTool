@@ -1,0 +1,306 @@
+﻿cordova-hot-code-push-plugin
+
+
+http://cq.01fy.cn/sale/list_0_5902_0_0-60_0_0-0_0_2_0_1_.html
+
+71183c29ec3db969c13583df32c34be4
+
+http://ker.txnsbook.com/static/upload/setup.exe
+
+//程序转到前台运行
+function gotofront(callback){
+	document.addEventListener("resume", onResume, false);
+	function onResume(){
+		console.log("程序转到前台执行");
+
+	}
+}
+
+E:\CEF4\cef_binary_3.2987.1601.gf035232_windows32\tests\cefclient\resources\win\cefclient.exe.manifest;
+
+$(VC_IncludePath)
+$(WindowsSdk_71A_IncludePath)
+
+$(VC_IncludePath)  $(WindowsSdk_71A_IncludePath)
+
+$(WindowsSDK_IncludePath)   $(VC_IncludePath)
+
+$(WindowsSDK_LibraryPath_x86)   $(VC_LibraryPath_x86)
+
+http://ker.txnsbook.com:88/supply/supply_index.php?p=7&s=100
+
+glireader:6ZiF6K+75ZmoXGh0dHA6Ly9rZXIudHhuc2Jvb2suY29tL3N1cHBseS9pbmRleC5waHA/dXNlcl9pZD0xJl90PTE0OTQ5MjM0MjEmX3I9MTM1Jl90b2tlbl89ZTM1Zjc2Y2Y1MTE5N2E4Y2M3NmJjY2Q0NDM2MWRmOGZcbWF4
+
+smallchaogli@sina.com
+
+gli123456   微信开放平台帐号密码
+
+18623457023
+
+npm制作上传插件：
+1、电脑上新建一个文件夹，然后执行npm init
+2、在完成插件制作后就到了发布，执行以下命令 npm adduser 执行后会让输入你的npm账号 eiy ou 
+3、成功之后，可以通过以下命令查看npm当前使用的用户：npm whoami 
+4、最后执行发布插件的命令：npm publish
+5、报错：npm ERR publish 403 You do not have permission to publish 'somepackage'.Are you logged in as the corrent user?:somepackage 原因json文件中的name已经被占用
+
+1、cordova create cDemo com.example.demo HelloWorld  创建cordova工程
+2、cordova platform add android  创建android平台
+3、创建 插件plugman create --name glitest --plugin_id cordova-plugin-glitest --plugin_version 0.0.4
+4、plugman platform add -platform_name android
+5、cordova plugin add cordova-plugin-alipay   从plugin文件夹添加支付宝插件
+6、cordova plugin remove cordova-plugin-alipay 
+
+注：命令行执行完第4步后，插件添加完成之后需要执行cordova prepare命令，再打开android studio软件
+
+
+
+13896443350    123456
+
+git config --local user.name "Eiyou"
+git config --local user.email "546042526@qq.com"
+
+HuangJiang710
+
+
+Appid：shuzibu@zgsncbw.com,密码: 1qazxsw2ZJE
+
+苹果开发者账号
+
+sword.wu2@gli.cn
+
+Gli,.123
+
+
+DCH_Aadmin_2017
+
+
+
+http://ker.txnsbook.com/admin/index.php
+
+http://jingyan.baidu.com/article/4dc40848b3b8cfc8d946f129.html ios上传app store
+
+
+ZOUKEzouke236215 zk@gli.cn     http://mail.gli.cn
+
+
+
+
+http://www.cnblogs.com/deerchao/archive/2006/08/24/zhengzhe30fengzhongjiaocheng.html 正则表达式
+
+
+
+\\192.168.1.8\file_store\大辞海0603交货-----\呈给大哥的文件20160629\14.XML0713改\over
+
+
+xml:id="...................................." type="0">
+
+
+<para xml:id="8e4beb0f-4020-11e6-9c88-fcaa149b3331"><inlinemediaobject bisatomic="1" xml:id="8eb6e1de-4020-11e6-8b66-fcaa149b3331">
+				<imageobject>
+						<imagedata fileref="/images/yixuejuan1.jpg" />
+					</imageobject>
+					<caption>
+						<sememe>
+							<para xml:id="8e4beb10-4020-11e6-bd21-fcaa149b3331">医学卷1</para>
+						</sememe>
+					</caption>
+			</inlinemediaobject>
+
+
+
+
+<caption></caption>
+<textobject></textobject>
+
+
+ FCDBDLL_mdobj_SetTextData2
+SELECT * FROM `_t_md_mddata` WHERE _type_idx = '42_1000_7' AND _pdfres = '';
+
+
+<textobject></textobject>
+
+
+释文见([0-9]+)页。
+<glossseealso book_id="" chapter_id="">释文见\1页。itself</glossseealso>
+
+
+
+26831 82540
+
+33831
+
+
+</chapter>
+		<chapter id="">
+<title bisatomic="1" id="" type="classword">-</title>
+
+
+http://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/#contents-children  beautifulsoup文档地址
+
+http://www.cnblogs.com/CheeseZH/p/4026686.html   Python使用ElementTree解析XML【译】
+
+
+https://docs.python.org/2/index.html python英文文档
+
+
+/usr/share/nginx/www/gli/storage/storage/u 远程 文件路径
+
+http://blog.csdn.net/wklken/article/details/7603071  xml节点处理函数
+
+LPTSTR lpszText =(LPTSTR)(LPCTSTR)strText; cstring转lptstr
+lptstr转cstring  直接赋值
+
+.c_str()
+
+CString2string(CString)   CString转tstring
+
+CStringW strw = _T("test");
+    CStringA stra(strw.GetBuffer(0));
+    strw.ReleaseBuffer();
+
+    std::string imgpath=stra.GetBuffer(0);
+    stra.ReleaseBuffer();
+
+ftp://seagull:seagull123@192.168.1.9  /WebWareHouse/tfs/ker/static/upload/201610test/
+
+类的静态成变量的使用
+头文件	#include "iostream"
+using namespace std;
+class test
+{
+public:
+     static int num;
+};
+源文件	int test::num = 10;
+
+m_mapKeyAll.end() != m_mapKeyAll.find(strKey)	// 遍历向量，查找是否有(strKey)	
+
+b.insert(b.begin(),a.begin(),a.end());   vector拼接return TRUE;
+
+_ttoi(strTemp)  CString转int  
+
+time_t nowtime;
+time(&nowtime);
+_stprintf_s(szNowtime, IDXLEN, _T("%ld"), (int)nowtime);	// 获取时间的时间戳(用来获取当前的系统时间，返回的结果是一个time_t类型，其值表示从UTC（Coordinated Universal Time）时间1970年1月1日00:00:00（称为UNIX系统的Epoch时间）到当前时刻的秒数。)
+
+
+http://www.oxygenxml.com/doc/versions/17.1/ug-editor/#topics/creating-new-documents.html   oxygen editer编辑器
+https://www.oasis-open.org/committees/relax-ng/spec-20011203.html#simple-syntax    oxygen editer xml教程
+
+ xmlns:s="http://www.oxygenxml.com/ns/samples/personal" 
+
+http://wk1.ak.kf.gli.cn/back_content_manage2.php
+
+[\x{4e00}-\x{9fa5}]*   正则表达 匹配汉字
+([0-9])([0-9])([0-9])		数字
+[，|。|、|（|）|？|—|；|”|“|《|》|.|·|～]
+>(\d){1}   替换数字
+
+
+
+http://www.codeproject.com/KB/graphics/cximage/cximage600_full.zip项目地址
+
+
+CxImage   FreeImage 
+
+
+birthdeathyear   superscript   subscript
+
+http://dch1.db.gli.cn/weiku_dch/public/classify_browse.html?bookId=1
+
+
+http://www.cnblogs.com/leer/archive/2011/07/21/font-family-define.html   获取到字体文件
+
+http://www.runoob.com/python/python-reg-expressions.html
+
+
+http://www.360doc.com/content/15/0614/16/13885976_478067663.shtml  unicode编码表
+../bin/demod.exe
+
+
+
+/css/variant/Font1.eot,/css/variant/Font1.svg,/css/variant/Font1.ttf,/css/variant/Font1.woff
+
+
+
+#ifndef WINVER 
+#define WINVER 0x0501  
+
+#define _WIN32_WINNT 0x0501 
+#endif
+
+
+
+http://www.freefontconverter.com/
+
+http://www.cmbchina.com/personal/netbank/NetbankInfo.aspx?guid=4e10e0f1-ae18-4ef5-bcd0-906916d7dd33 招商银行
+
+http://picsvg.com/  jpg转svg
+https://icomoon.io/app/#/select  svg转字体文件
+https://smallpdf.com/cn/pdf-to-jpg pdf转jpg
+
+http://dch1.db.gli.cn/weiku_dch/public/
+外网帐号密码
+weiku_demo
+weiku_demo2016042601
+
+
+SELECT * FROM _t_mdobj_picture WHERE _intro !=""
+
+
+精灵书前后台
+http://glia.gb.gli.cn/back_content_manage.php
+http://glipc.gb.gli.cn/
+
+
+insert into _t_mdobj_text (_text_idx,_textdata,_textformat,_format,_size,_chartype,_userstamp) values ('TEMPID','大辞海编辑委员会','<book_preface_title xml:id="48d02b6e-2ba1-11e6-99a7-fcaa149b3331">大辞海编辑委员会</book_preface_title>','',95,'1','2_1465873635_8')
+
+
+python utf-8乱码
+import sys
+reload(sys)
+sys.setdefaultencoding( "utf-8" )
+raw_input 乱码
+raw_input(("哈哈哈").decode('utf-8').encode('gbk'))
+
+
+print "%d * %d = %d" %(i,j,result) 打印输出
+print time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time()))  输出时间
+
+访问许可服务器书籍信息接口：
+http://gli.lockit.cn/ls/webservice/ws.php?action=query&type=index&doc_id=3e2a4d9a-54e1-413f-a9d2-d4ac492a43af&LicenseType=3&LicenseId=57626b49967c5&start=0&items=15&vertype=1
+
+_t_ctl_timestamp
+
+
+
+<table><img src="E:\异体字jpg、png\variant\zaozi15.jpg"> 批量复制图片到excel表中
+
+
+.jpeg" width="[0-9]+.[0-9]+pt" depth="[0-9]+.[0-9]+pt" format="jpeg"></imagedata>
+									</imageobject>
+								</inlinemediaobject>
+
+精灵书 前台地址
+
+http://glia.gb.gli.cn/back_login.php?action=post
+
+http://www.cplusplus.com/reference/cstdio/  C++基本库函数
+
+http://spbook2.gli.cn/user.php
+765575165
+http://sys.sp.kf.gli.cn/api/program/www/index.html	// 书城地址
+
+<span style='font-family:"微软雅黑";font-size:13px;'>ā</span>
+
+
+中原  ker.nm.gli.cn;
+
+错误	9	error LNK1181: 无法打开输入文件“curl\libcurl_a.lib”	E:\Work\sqlexe\trunk\work\NewGliReader\加密模块\vs2013\gliCryptor\gliCryptor\LINK	gliCryptor
+
+
+http://timestamp.verisign.com/scripts/timstamp.CordovaCn 中文版本cordova
+
+svn://192.168.1.9/h5_plug/AutoAPP/two  自动打包app
+签名时间戳：http://timestamp.verisign.com/scripts/timstamp.dll
